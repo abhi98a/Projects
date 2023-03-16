@@ -24,7 +24,7 @@ Notes
 
 
 
-REST APIs
+# REST APIs
 
 
 | entities   actions  | /tasks (collection)                                                                             | /tasks/{id} (entity)  /tasks/123                                                                                                           |   |   |
